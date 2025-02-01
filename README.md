@@ -1,6 +1,9 @@
 ## How to Run
 - pastikan sudah download dan install composer
 - jika download zip, extract file. TIDAK HARUS pada folder htdocs
+- aktifkan ekstension php pada file php.ini berikut:
+  ![image](https://github.com/user-attachments/assets/df88929c-e93e-49b7-8333-3acd2d452f86)
+- simpan file
 - edit file .env.example. rename file jadi .env. atur nama database pada
     DB_DATABASE= nama_db
     DB_USERNAME=root
